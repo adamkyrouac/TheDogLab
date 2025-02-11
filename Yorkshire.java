@@ -23,4 +23,8 @@ public class Yorkshire extends Dog
         System.out.println(name + " is doing a York waddle");
     }
 
+//    public String bark(){
+//        return "Yorkshire barking";
+//    }
+
 }
